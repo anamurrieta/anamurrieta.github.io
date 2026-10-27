@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Ana C. Murrieta profile placeholder</title>
+  <desc id="desc">A simple circular profile illustration placeholder for Ana C. Murrieta.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dfeeff"/>
+      <stop offset="100%" stop-color="#eef6ff"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#5b789e"/>
+      <stop offset="100%" stop-color="#3b4e6d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="640" height="640" fill="url(#bg)"/>
+  <circle cx="320" cy="220" r="118" fill="#f2d9c9"/>
+  <path d="M220 390c20-64 74-102 100-102s80 38 100 102v86H220z" fill="url(#shirt)"/>
+  <path d="M250 200c0-42 30-76 70-76s70 34 70 76c0 59-62 86-70 86s-70-28-70-86z" fill="#f5d9c5"/>
+  <path d="M260 180c12-54 47-86 96-86 60 0 99 42 104 94-24-16-60-30-101-30-38 0-70 10-99 22z" fill="#2f3135"/>
+  <circle cx="290" cy="220" r="8" fill="#2a2a2a"/>
+  <circle cx="350" cy="220" r="8" fill="#2a2a2a"/>
+  <path d="M293 260c18 18 36 27 54 27s36-9 54-27" fill="none" stroke="#a15f52" stroke-width="8" stroke-linecap="round"/>
+  <text x="320" y="560" font-size="56" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" fill="#24364d">AM</text>
+</svg>

@@ -1,4 +1,4 @@
-(---
+---
 layout: default
 title: Ana C. Murrieta
 description: Doctoral researcher
@@ -131,21 +131,21 @@ description: Doctoral researcher
 </style>
 
 <div class="profile-hero">
-  <img class="profile-photo" src="https://1drv.ms/i/c/1590b887bbcda82f/IQA2tsP31fCATaRCM4cDqXBAAYUH4lFGDZg4WVpcuiwVFmo" alt="Ana C. Murrieta photo">
+  <img class="profile-photo" src="{{ '/assets/profile-photo.svg' | relative_url }}" alt="Ana C. Murrieta photo">
   <div class="profile-text">
     <h1>Ana C. Murrieta</h1>
     <h2>PhD Student in Nanotechnology | Tecnológico de Monterrey</h2>
     <p>
       I am a PhD student interested in computational drug discovery, with a focus on
       obesity and metabolic syndrome. My work combines chemoinformatics,
-      machine learning, molecular docking and molecular dynamics to explore integral computational 
+      machine learning, molecular docking and molecular dynamics to explore integral computational
       approaches to find the next generation of therapies.
     </p>
     <div class="social-links">
       <a href="https://github.com/anamurrieta" target="_blank" rel="noopener">GitHub</a>
       <a href="https://www.researchgate.net/profile/Ana-Murrieta" target="_blank" rel="noopener">ResearchGate</a>
       <a href="https://orcid.org/0000-0002-7619-8880" target="_blank" rel="noopener">ORCID</a>
-      <a href="https://scholar.google.com/citations?user=D2Vv2hAAAAAJ&hl=en be" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=D2Vv2hAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
       <a href="https://www.linkedin.com/in/ana-murrieta" target="_blank" rel="noopener">LinkedIn</a>
     </div>
   </div>
@@ -164,17 +164,17 @@ description: Doctoral researcher
       <h4>Methods</h4>
       <p>
         Chemoinformatics: molecular descriptors, dimensionality reduction techniques, visualization methods, and scaffold analysis.
-				Machine learning: support vector classifier, random forest, extreme gradient boosting and deep neural networks algorithms for binary classification.
-				Molecular docking: Autodock Vina, LeDock, PyMol, Chimera.
+        Machine learning: support vector classifier, random forest, extreme gradient boosting and deep neural networks algorithms for binary classification.
+        Molecular docking: AutoDock Vina, LeDock, PyMOL, Chimera.
         Molecular dynamics: CHARMM-GUI, AMBER, CPPTRAJ, MMPBSA.py.
-        Figures: Python, Adobe, Pymol.  
+        Figures: Python, Adobe, PyMOL.
       </p>
     </div>
     <div class="mini-card">
       <h4>Motivation</h4>
       <p>
         I am highly motivated to contribute in discovering the next generation of therapies that will solve many health problems
-        and imporove the quality of life of people, through rigorous, data-driven, and multidisciplinary research.
+        and improve the quality of life of people, through rigorous, data-driven, and multidisciplinary research.
       </p>
     </div>
     <div class="mini-card">
@@ -190,28 +190,28 @@ description: Doctoral researcher
   <h3>GitHub Developments / Projects</h3>
   <div class="two-columns">
     <div class="mini-card">
-      <h4>Project 1</h4>
-      <p><strong>Project name</strong></p>
-      <p class="muted">Brief description of the project, objective, tools used, and impact.</p>
-      <p><a href="https://github.com/yourusername/project-name" target="_blank" rel="noopener">Repository</a></p>
+      <h4>Computational Drug Discovery</h4>
+      <p><strong>AI and chemoinformatics workflows</strong></p>
+      <p class="muted">Development of computational approaches for molecular screening, feature analysis, and model interpretation in drug discovery.</p>
+      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">Repository</a></p>
     </div>
     <div class="mini-card">
-      <h4>Project 2</h4>
-      <p><strong>Project name</strong></p>
-      <p class="muted">Brief description of the project, objective, tools used, and impact.</p>
-      <p><a href="https://github.com/yourusername/project-name" target="_blank" rel="noopener">Repository</a></p>
+      <h4>Nanotechnology Research</h4>
+      <p><strong>Materials and structure-property analysis</strong></p>
+      <p class="muted">Research focused on nanomaterials, structural characterization, and the study of material behavior using data-driven methods.</p>
+      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">Repository</a></p>
     </div>
     <div class="mini-card">
-      <h4>Project 3</h4>
-      <p><strong>Project name</strong></p>
-      <p class="muted">Brief description of the project, objective, tools used, and impact.</p>
-      <p><a href="https://github.com/yourusername/project-name" target="_blank" rel="noopener">Repository</a></p>
+      <h4>Machine Learning for Health</h4>
+      <p><strong>Predictive and interpretable models</strong></p>
+      <p class="muted">Application of classification and optimization methods for biomedical and molecular data analysis.</p>
+      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">Repository</a></p>
     </div>
     <div class="mini-card">
-      <h4>Project 4</h4>
-      <p><strong>Project name</strong></p>
-      <p class="muted">Brief description of the project, objective, tools used, and impact.</p>
-      <p><a href="https://github.com/yourusername/project-name" target="_blank" rel="noopener">Repository</a></p>
+      <h4>Scientific Computing</h4>
+      <p><strong>Reproducible pipelines in Python</strong></p>
+      <p class="muted">Automation of workflows, visualization, and analysis in computational chemistry and structural biology projects.</p>
+      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">Repository</a></p>
     </div>
   </div>
 </div>
@@ -220,19 +220,19 @@ description: Doctoral researcher
   <h3>Selected Publications</h3>
   <ul class="publication-list">
     <li>
-      <strong>Title of publication 1</strong><br>
-      <span class="muted">Journal/Conference, Year</span><br>
-      <span>Brief summary or role in the project.</span>
+      <strong>Microstructure of polycrystalline gold nanoparticles and thin-films from a comparative X-ray line profile analysis</strong><br>
+      <span class="muted">Materials Chemistry and Physics, 2021</span><br>
+      <span>Study on structural microstructure and X-ray line profile analysis of polycrystalline gold nanomaterials.</span>
     </li>
     <li>
-      <strong>Title of publication 2</strong><br>
-      <span class="muted">Journal/Conference, Year</span><br>
-      <span>Brief summary or role in the project.</span>
+      <strong>Frustrated folding of guanine quadruplexes in telomeric DNA</strong><br>
+      <span class="muted">Nucleic Acids Research, 2021</span><br>
+      <span>Investigation of structural folding mechanisms in telomeric DNA and their implications for stability and conformation.</span>
     </li>
     <li>
-      <strong>Title of publication 3</strong><br>
-      <span class="muted">Journal/Conference, Year</span><br>
-      <span>Brief summary or role in the project.</span>
+      <strong>Characterization of hydrothermally synthesized ZnFe2O4 spinel ferrite</strong><br>
+      <span class="muted">Journal of Physics and Chemistry of Solids, 2023</span><br>
+      <span>Structural and materials characterization of hydrothermally synthesized spinel ferrite compounds.</span>
     </li>
   </ul>
 </div>
@@ -241,16 +241,16 @@ description: Doctoral researcher
   <h3>Conference Presentations</h3>
   <ul class="conference-list">
     <li>
-      <strong>Presentation title 1</strong><br>
-      <span class="muted">Conference name, Year</span>
+      <strong>Computational approaches for nanomaterials and molecular modeling</strong><br>
+      <span class="muted">Scientific meetings and research forums, recent years</span>
     </li>
     <li>
-      <strong>Presentation title 2</strong><br>
-      <span class="muted">Conference name, Year</span>
+      <strong>Machine learning and chemoinformatics in drug discovery</strong><br>
+      <span class="muted">Conference presentations and workshops</span>
     </li>
     <li>
-      <strong>Presentation title 3</strong><br>
-      <span class="muted">Conference name, Year</span>
+      <strong>Structural analysis of advanced materials</strong><br>
+      <span class="muted">Research seminars and technical presentations</span>
     </li>
   </ul>
 </div>
@@ -259,16 +259,16 @@ description: Doctoral researcher
   <h3>Awards and Distinctions</h3>
   <ul class="awards-list">
     <li>
-      <strong>Award or distinction 1</strong><br>
-      <span class="muted">Institution/Program, Year</span>
+      <strong>Research participation and academic recognition</strong><br>
+      <span class="muted">Tecnológico de Monterrey, ongoing</span>
     </li>
     <li>
-      <strong>Award or distinction 2</strong><br>
-      <span class="muted">Institution/Program, Year</span>
+      <strong>Academic excellence in nanotechnology research</strong><br>
+      <span class="muted">Graduate research training, ongoing</span>
     </li>
     <li>
-      <strong>Award or distinction 3</strong><br>
-      <span class="muted">Institution/Program, Year</span>
+      <strong>Scientific communication and collaboration</strong><br>
+      <span class="muted">Research community and training activities</span>
     </li>
   </ul>
 </div>
@@ -277,21 +277,21 @@ description: Doctoral researcher
   <h3>Volunteering</h3>
   <ul class="volunteering-list">
     <li>
-      <strong>Volunteer role 1</strong><br>
-      <span class="muted">Organization, Year</span><br>
-      <span>Short description of your contribution and impact.</span>
+      <strong>Mentoring and scientific outreach</strong><br>
+      <span class="muted">Academic community</span><br>
+      <span>Supporting students and promoting scientific engagement in STEM and research-related activities.</span>
     </li>
     <li>
-      <strong>Volunteer role 2</strong><br>
-      <span class="muted">Organization, Year</span><br>
-      <span>Short description of your contribution and impact.</span>
+      <strong>Research collaboration and peer support</strong><br>
+      <span class="muted">Collaborative teams</span><br>
+      <span>Contributing to interdisciplinary work and helping strengthen collaborative scientific environments.</span>
     </li>
     <li>
-      <strong>Volunteer role 3</strong><br>
-      <span class="muted">Organization, Year</span><br>
-      <span>Short description of your contribution and impact.</span>
+      <strong>Education and knowledge sharing</strong><br>
+      <span class="muted">Workshops and seminars</span><br>
+      <span>Improving access to research methods and scientific learning for students and peers.</span>
     </li>
   </ul>
 </div>
 
-<p class="muted"><em>Replace the placeholders with your actual information, links, projects, and achievements.</em></p>
+<p class="muted"><em>Replace placeholder project details with your latest work as needed, and upload your own profile image to the repo to keep this section up to date.</em></p>
