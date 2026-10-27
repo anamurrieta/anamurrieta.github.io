@@ -131,7 +131,7 @@ description: Doctoral researcher
 </style>
 
 <div class="profile-hero">
-  <img class="profile-photo" src="{{ '/assets/profile-photo.svg' | relative_url }}" alt="Ana C. Murrieta photo">
+  <img class="profile-photo" src="{{ '/assets/20260428_004056000_iOS 1.jpg' | relative_url }}" alt="Ana C. Murrieta photo">
   <div class="profile-text">
     <h1>Ana C. Murrieta</h1>
     <h2>PhD Student in Nanotechnology | Tecnológico de Monterrey</h2>
