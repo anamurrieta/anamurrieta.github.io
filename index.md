@@ -163,11 +163,11 @@ description: Doctoral researcher
     <div class="mini-card">
       <h4>Methods</h4>
       <p>
-        Chemoinformatics: molecular descriptors, dimensionality reduction techniques, visualization methods, and scaffold analysis.
-        Machine learning: support vector classifier, random forest, extreme gradient boosting and deep neural networks algorithms for binary classification.
-        Molecular docking: AutoDock Vina, LeDock, PyMOL, Chimera.
-        Molecular dynamics: CHARMM-GUI, AMBER, CPPTRAJ, MMPBSA.py.
-        Figures: Python, Adobe, PyMOL.
+        <p><strong>Chemoinformatics:<p><strong> molecular descriptors, dimensionality reduction techniques, visualization methods, and scaffold analysis.
+        <p><strong>Machine learning:<p><strong> support vector classifier, random forest, extreme gradient boosting and deep neural networks algorithms for binary classification.
+        <p><strong>Molecular docking:<p><strong> AutoDock Vina, LeDock, PyMOL, Chimera.
+        <p><strong>Molecular dynamics:<p><strong> CHARMM-GUI, AMBER, CPPTRAJ, MMPBSA.py.
+        <p><strong>Figures:<p><strong> Python, Adobe, PyMOL.
       </p>
     </div>
     <div class="mini-card">
@@ -180,7 +180,7 @@ description: Doctoral researcher
     <div class="mini-card">
       <h4>Current interests</h4>
       <p>
-        <em>[Drug discovery, chemoinformatics, AI for health, molecular modeling, nanomaterials]</em>
+        Drug discovery, chemoinformatics, AI for health, molecular modeling, nanomaterials
       </p>
     </div>
   </div>
@@ -293,5 +293,3 @@ description: Doctoral researcher
     </li>
   </ul>
 </div>
-
-<p class="muted"><em>Replace placeholder project details with your latest work as needed, and upload your own profile image to the repo to keep this section up to date.</em></p>
