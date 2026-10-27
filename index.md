@@ -1,4 +1,4 @@
----
+(---
 layout: default
 title: Ana C. Murrieta
 description: Doctoral researcher
@@ -131,7 +131,7 @@ description: Doctoral researcher
 </style>
 
 <div class="profile-hero">
-  <img class="profile-photo" src="https://via.placeholder.com/500x500.png?text=Your+Photo" alt="Ana C. Murrieta photo">
+  <img class="profile-photo" src="https://1drv.ms/i/c/1590b887bbcda82f/IQA2tsP31fCATaRCM4cDqXBAAYUH4lFGDZg4WVpcuiwVFmo" alt="Ana C. Murrieta photo">
   <div class="profile-text">
     <h1>Ana C. Murrieta</h1>
     <h2>PhD Student in Nanotechnology | Tecnológico de Monterrey</h2>
@@ -157,28 +157,30 @@ description: Doctoral researcher
     <div class="mini-card">
       <h4>Main focus</h4>
       <p>
-        My research centers on the design and application of <strong>[topic 1]</strong> to study
-        <strong>[topic 2]</strong>, with an emphasis on <strong>[main challenge or goal]</strong>.
+        Create integral and robust computational pipelines to aid in drug discovery for diseases, with a particular focus on obesity and metabolic syndrome.
       </p>
     </div>
     <div class="mini-card">
       <h4>Methods</h4>
       <p>
-        I work with <strong>[computational/experimental/multidisciplinary methods]</strong>, including
-        <strong>[technique 1]</strong>, <strong>[technique 2]</strong>, and <strong>[tool 3]</strong>.
+        Chemoinformatics: molecular descriptors, dimensionality reduction techniques, visualization methods, and scaffold analysis.
+				Machine learning: support vector classifier, random forest, extreme gradient boosting and deep neural networks algorithms for binary classification.
+				Molecular docking: Autodock Vina, LeDock, PyMol, Chimera.
+        Molecular dynamics: CHARMM-GUI, AMBER, CPPTRAJ, MMPBSA.py.
+        Figures: Python, Adobe, Pymol.  
       </p>
     </div>
     <div class="mini-card">
       <h4>Motivation</h4>
       <p>
-        I am motivated by the opportunity to contribute to <strong>[societal impact or scientific problem]</strong>
-        through rigorous, data-driven, and collaborative research.
+        I am highly motivated to contribute in discovering the next generation of therapies that will solve many health problems
+        and imporove the quality of life of people, through rigorous, data-driven, and multidisciplinary research.
       </p>
     </div>
     <div class="mini-card">
       <h4>Current interests</h4>
       <p>
-        <em>[e.g., drug discovery, systems biology, nanomaterials, AI for health, molecular modeling]</em>
+        <em>[Drug discovery, chemoinformatics, AI for health, molecular modeling, nanomaterials]</em>
       </p>
     </div>
   </div>
