@@ -163,11 +163,11 @@ description: Doctoral researcher
     <div class="mini-card">
       <h4>Methods</h4>
       <p>
-        <p><strong>Chemoinformatics:<p><strong> molecular descriptors, dimensionality reduction techniques, visualization methods, and scaffold analysis.
-        <p><strong>Machine learning:<p><strong> support vector classifier, random forest, extreme gradient boosting and deep neural networks algorithms for binary classification.
-        <p><strong>Molecular docking:<p><strong> AutoDock Vina, LeDock, PyMOL, Chimera.
-        <p><strong>Molecular dynamics:<p><strong> CHARMM-GUI, AMBER, CPPTRAJ, MMPBSA.py.
-        <p><strong>Figures:<p><strong> Python, Adobe, PyMOL.
+        <p><strong>Chemoinformatics:</strong></p> Molecular descriptors, dimensionality reduction techniques, visualization methods, and scaffold analysis.
+        <p><strong>Machine learning:</strong></p> Support vector classifier, random forest, extreme gradient boosting and deep neural networks algorithms for binary classification.
+        <p><strong>Molecular docking:</strong></p> AutoDock Vina, LeDock, PyMOL, Chimera.
+        <p><strong>Molecular dynamics:</strong></p> CHARMM-GUI, AMBER, CPPTRAJ, MMPBSA.py.
+        <p><strong>Figures:</strong></p> Python, Adobe, PyMOL.
       </p>
     </div>
     <div class="mini-card">
@@ -183,8 +183,6 @@ description: Doctoral researcher
         Drug discovery, chemoinformatics, AI for health, molecular modeling, nanomaterials
       </p>
     </div>
-  </div>
-</div>
 
 <div class="section-card">
   <h3>GitHub Developments / Projects</h3>
