@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ana C. Murrieta
-description: PhD student profile
+description: Doctoral researcher
 ---
 
 <style>
@@ -136,17 +136,17 @@ description: PhD student profile
     <h1>Ana C. Murrieta</h1>
     <h2>PhD Student in Nanotechnology | Tecnológico de Monterrey</h2>
     <p>
-      I am a PhD student interested in <strong>[your main area]</strong>, with a focus on
-      <strong>[specific research topic]</strong>. My work combines <strong>[method 1]</strong>,
-      <strong>[method 2]</strong>, and <strong>[method 3]</strong> to explore innovative approaches
-      to <strong>[application area]</strong>.
+      I am a PhD student interested in computational drug discovery, with a focus on
+      obesity and metabolic syndrome. My work combines chemoinformatics,
+      machine learning, molecular docking and molecular dynamics to explore integral computational 
+      approaches to find the next generation of therapies.
     </p>
     <div class="social-links">
-      <a href="https://github.com/yourusername" target="_blank" rel="noopener">GitHub</a>
-      <a href="https://www.researchgate.net/profile/yourprofile" target="_blank" rel="noopener">ResearchGate</a>
-      <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener">ORCID</a>
-      <a href="https://scholar.google.com/citations?user=YOURID" target="_blank" rel="noopener">Google Scholar</a>
-      <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/anamurrieta" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.researchgate.net/profile/Ana-Murrieta" target="_blank" rel="noopener">ResearchGate</a>
+      <a href="https://orcid.org/0000-0002-7619-8880" target="_blank" rel="noopener">ORCID</a>
+      <a href="https://scholar.google.com/citations?user=D2Vv2hAAAAAJ&hl=en be" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://www.linkedin.com/in/ana-murrieta" target="_blank" rel="noopener">LinkedIn</a>
     </div>
   </div>
 </div>
