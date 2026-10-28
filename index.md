@@ -218,19 +218,19 @@ description: Doctoral researcher
   <h3>Selected Publications</h3>
   <ul class="publication-list">
     <li>
-      <strong>Microstructure of polycrystalline gold nanoparticles and thin-films from a comparative X-ray line profile analysis</strong><br>
-      <span class="muted">Materials Chemistry and Physics, 2021</span><br>
-      <span>Study on structural microstructure and X-ray line profile analysis of polycrystalline gold nanomaterials.</span>
+      <strong>LigandHub: Web-Based Ligand Preparation and Docking Output Recovery Platform</strong><br>
+      <span class="muted">ChemRxiv, 2026</span><br>
+      <span>LigandHub is a web-based platform that integrates ligand validation, preparation, batch processing, and docking-output recovery within a unified workflow.</span>
     </li>
     <li>
-      <strong>Frustrated folding of guanine quadruplexes in telomeric DNA</strong><br>
-      <span class="muted">Nucleic Acids Research, 2021</span><br>
-      <span>Investigation of structural folding mechanisms in telomeric DNA and their implications for stability and conformation.</span>
+      <strong>Identification and structural characterization of CB1 receptor antagonists: A comprehensive virtual screening and molecular dynamics study of arachidin-2</strong><br>
+      <span class="muted">Biophysical Chemistry, 2025</span><br>
+      <span>Computational methods in the discovery and development of novel CB1 modulators.</span>
     </li>
     <li>
-      <strong>Characterization of hydrothermally synthesized ZnFe2O4 spinel ferrite</strong><br>
-      <span class="muted">Journal of Physics and Chemistry of Solids, 2023</span><br>
-      <span>Structural and materials characterization of hydrothermally synthesized spinel ferrite compounds.</span>
+      <strong>Mitochondrial Ca overload is a pivotal risk factor for lethal ventricular arrhythmias due to the oxidation of mitochondrial respirasome and energetic failure</strong><br>
+      <span class="muted">British Journal of Pharmacology, 2025</span><br>
+      <span>Structural characterization of calcium channels with Ru360 and verapamil.</span>
     </li>
   </ul>
 </div>
