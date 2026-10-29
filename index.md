@@ -94,7 +94,8 @@ description: Doctoral researcher
   .publication-list,
   .conference-list,
   .awards-list,
-  .volunteering-list {
+  .volunteering-list,
+  .education-list {
     list-style: none;
     padding-left: 0;
     margin: 0;
@@ -103,7 +104,8 @@ description: Doctoral researcher
   .publication-list li,
   .conference-list li,
   .awards-list li,
-  .volunteering-list li {
+  .volunteering-list li,
+  .education-list li {
     margin-bottom: 0.85rem;
     padding-bottom: 0.85rem;
     border-bottom: 1px solid #eef1f4;
@@ -112,7 +114,8 @@ description: Doctoral researcher
   .publication-list li:last-child,
   .conference-list li:last-child,
   .awards-list li:last-child,
-  .volunteering-list li:last-child {
+  .volunteering-list li:last-child,
+  .education-list li:last-child {
     margin-bottom: 0;
     padding-bottom: 0;
     border-bottom: none;
@@ -136,10 +139,9 @@ description: Doctoral researcher
     <h1>Ana C. Murrieta</h1>
     <h2>PhD Student in Nanotechnology | Tecnológico de Monterrey</h2>
     <p>
-      I am a PhD student interested in computational drug discovery, with a focus on
-      obesity and metabolic syndrome. My work combines chemoinformatics,
-      machine learning, molecular docking and molecular dynamics to explore integral computational
-      approaches to find the next generation of therapies.
+      I am a doctoral researcher in nanotechnology with a strong interest in computational drug discovery,
+      chemoinformatics, and molecular modeling. My work integrates artificial intelligence, molecular docking,
+      and molecular dynamics to advance the design and discovery of therapeutic candidates for metabolic disease.
     </p>
     <div class="social-links">
       <a href="https://github.com/anamurrieta" target="_blank" rel="noopener">GitHub</a>
@@ -147,147 +149,145 @@ description: Doctoral researcher
       <a href="https://orcid.org/0000-0002-7619-8880" target="_blank" rel="noopener">ORCID</a>
       <a href="https://scholar.google.com/citations?user=D2Vv2hAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
       <a href="https://www.linkedin.com/in/ana-murrieta" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="mailto:ana.murrieta@tec.mx">Professional email</a>
+      <a href="mailto:murrieta.ana@hotmail.com">Personal email</a>
     </div>
   </div>
 </div>
 
 <div class="section-card">
-  <h3>Research Line</h3>
+  <h3>Interests and skills</h3>
   <div class="two-columns">
     <div class="mini-card">
       <h4>Main focus</h4>
       <p>
-        Create integral and robust computational pipelines to aid in drug discovery for diseases, with a particular focus on obesity and metabolic syndrome.
+        Computational drug discovery, molecular design, and the integration of data-driven methodologies
+        for health applications, with a special focus on obesity and metabolic syndrome.
       </p>
     </div>
     <div class="mini-card">
       <h4>Methods</h4>
-      <p>
-        <p><strong>Chemoinformatics:</strong></p> Molecular descriptors, dimensionality reduction techniques, visualization methods, and scaffold analysis.
-        <p><strong>Machine learning:</strong></p> Support vector classifier, random forest, extreme gradient boosting and deep neural networks algorithms for binary classification.
-        <p><strong>Molecular docking:</strong></p> AutoDock Vina, LeDock, PyMOL, Chimera.
-        <p><strong>Molecular dynamics:</strong></p> CHARMM-GUI, AMBER, CPPTRAJ, MMPBSA.py.
-        <p><strong>Figures:</strong></p> Python, Adobe, PyMOL.
-      </p>
+      <p><strong>Chemoinformatics:</strong> molecular descriptors, dimensionality reduction, visualization, and scaffold analysis.</p>
+      <p><strong>Machine learning:</strong> support vector classifiers, random forests, XGBoost, and neural networks.</p>
+      <p><strong>Molecular docking:</strong> AutoDock Vina and related ligand-protein methods.</p>
+      <p><strong>Molecular dynamics:</strong> simulation workflows for biomolecular analysis and validation.</p>
     </div>
     <div class="mini-card">
       <h4>Motivation</h4>
       <p>
-        I am highly motivated to contribute in discovering the next generation of therapies that will solve many health problems
-        and improve the quality of life of people, through rigorous, data-driven, and multidisciplinary research.
+        I am driven by the opportunity to contribute to the next generation of therapeutic development through
+        rigorous, multidisciplinary, and data-informed computational research.
       </p>
     </div>
     <div class="mini-card">
       <h4>Current interests</h4>
       <p>
-        Drug discovery, chemoinformatics, AI for health, molecular modeling, nanomaterials
+        Drug discovery, chemoinformatics, AI for health, molecular modeling, nanomaterials, and reproducible scientific computing.
       </p>
-    </div>
-
-<div class="section-card">
-  <h3>GitHub Developments / Projects</h3>
-  <div class="two-columns">
-    <div class="mini-card">
-      <h4>Computational Drug Discovery</h4>
-      <p><strong>AI and chemoinformatics workflows</strong></p>
-      <p class="muted">Development of computational approaches for molecular screening, feature analysis, and model interpretation in drug discovery.</p>
-      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">Repository</a></p>
-    </div>
-    <div class="mini-card">
-      <h4>Nanotechnology Research</h4>
-      <p><strong>Materials and structure-property analysis</strong></p>
-      <p class="muted">Research focused on nanomaterials, structural characterization, and the study of material behavior using data-driven methods.</p>
-      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">Repository</a></p>
-    </div>
-    <div class="mini-card">
-      <h4>Machine Learning for Health</h4>
-      <p><strong>Predictive and interpretable models</strong></p>
-      <p class="muted">Application of classification and optimization methods for biomedical and molecular data analysis.</p>
-      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">Repository</a></p>
-    </div>
-    <div class="mini-card">
-      <h4>Scientific Computing</h4>
-      <p><strong>Reproducible pipelines in Python</strong></p>
-      <p class="muted">Automation of workflows, visualization, and analysis in computational chemistry and structural biology projects.</p>
-      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">Repository</a></p>
     </div>
   </div>
 </div>
 
 <div class="section-card">
-  <h3>Selected Publications</h3>
+  <h3>Education</h3>
+  <ul class="education-list">
+    <li>
+      <strong>B.Sc. in [Degree]</strong><br>
+      <span class="muted">[University], [Year]</span>
+    </li>
+    <li>
+      <strong>M.Sc. in [Degree]</strong><br>
+      <span class="muted">[University], [Year]</span>
+    </li>
+    <li>
+      <strong>Ph.D. in Nanotechnology</strong><br>
+      <span class="muted">Tecnológico de Monterrey, [Year or expected year]</span>
+    </li>
+  </ul>
+</div>
+
+<div class="section-card">
+  <h3>Publications</h3>
   <ul class="publication-list">
     <li>
       <strong>LigandHub: Web-Based Ligand Preparation and Docking Output Recovery Platform</strong><br>
       <span class="muted">ChemRxiv, 2026</span><br>
-      <span>LigandHub is a web-based platform that integrates ligand validation, preparation, batch processing, and docking-output recovery within a unified workflow.</span>
+      <a href="https://doi.org/10.0000/placeholder-ligandhub" target="_blank" rel="noopener">DOI: placeholder</a>
     </li>
     <li>
       <strong>Identification and structural characterization of CB1 receptor antagonists: A comprehensive virtual screening and molecular dynamics study of arachidin-2</strong><br>
       <span class="muted">Biophysical Chemistry, 2025</span><br>
-      <span>Computational methods in the discovery and development of novel CB1 modulators.</span>
+      <a href="https://doi.org/10.0000/placeholder-cb1" target="_blank" rel="noopener">DOI: placeholder</a>
     </li>
     <li>
       <strong>Mitochondrial Ca overload is a pivotal risk factor for lethal ventricular arrhythmias due to the oxidation of mitochondrial respirasome and energetic failure</strong><br>
       <span class="muted">British Journal of Pharmacology, 2025</span><br>
-      <span>Structural characterization of calcium channels with Ru360 and verapamil.</span>
+      <a href="https://doi.org/10.0000/placeholder-arrhythmia" target="_blank" rel="noopener">DOI: placeholder</a>
     </li>
   </ul>
 </div>
 
 <div class="section-card">
-  <h3>Selected Conference Presentations</h3>
+  <h3>Conferences</h3>
   <ul class="conference-list">
     <li>
       <strong>MELITE: Multimodel evaluation of classifiers for chemoinformatics</strong><br>
-      <span class="muted">Poster: Congress of the Mexican Chemistry Society. 2026, Oaxaca, México.</span>
+      <span class="muted">Poster presentation. Congress of the Mexican Chemistry Society, Oaxaca, México, 2026.</span>
     </li>
     <li>
       <strong>Computational identification of 2-arylbenzofuran derivatives as CB1 ligands from the chemical space of natural products</strong><br>
-      <span class="muted">Oral talk: Congress of the Mexican Chemistry Society. 2026, Oaxaca, Mexico.</span>
+      <span class="muted">Oral presentation. Congress of the Mexican Chemistry Society, Oaxaca, México, 2026.</span>
     </li>
     <li>
       <strong>Gender bias in artificial intelligence models in drug development</strong><br>
-      <span class="muted">Poster: Internstional Conference of Women Researchers in Iberoamerica. 2025, Tampico, Mexico.</span>
+      <span class="muted">Poster presentation. International Conference of Women Researchers in Iberoamerica, Tampico, México, 2025.</span>
     </li>
   </ul>
 </div>
 
 <div class="section-card">
-  <h3>Awards and Distinctions</h3>
-  <ul class="awards-list">
-    <li>
-      <strong>Guanajuato State Youth Award: Academy and Science category - Finalist</strong><br>
-      <span class="muted">Guanajuato State Youth Institute, 2025</span>
-    </li>
-    <li>
-      <strong>Ludo Frevel Crystallography Scholarship</strong><br>
-      <span class="muted">International Centre for Diffraction Data, 2023</span>
-    </li>
-    <li>
-      <strong>Robert L. Snyder Student Award</strong><br>
-      <span class="muted">Internatilnal Centre for Diffraction Data, 2022</span>
-    </li>
-  </ul>
+  <h3>Developments</h3>
+  <div class="two-columns">
+    <div class="mini-card">
+      <h4>Chemvault</h4>
+      <p class="muted">Repository for chemical data management and structure-related workflows.</p>
+      <p><a href="https://github.com/NanoBiostructuresRG-lab/chemvault" target="_blank" rel="noopener">View repository</a></p>
+    </div>
+    <div class="mini-card">
+      <h4>MELITE</h4>
+      <p class="muted">Multimodel evaluation framework for chemoinformatics and predictive model benchmarking.</p>
+      <p><a href="https://github.com/NanoBiostructuresRG/melite" target="_blank" rel="noopener">View repository</a></p>
+    </div>
+    <div class="mini-card">
+      <h4>Autodock Viña docking tutorial</h4>
+      <p class="muted">Educational tutorial and practical workflow for molecular docking using AutoDock Vina.</p>
+      <p><a href="https://github.com/NanoBiostructuresRG/AutodockTutorial-fork" target="_blank" rel="noopener">View repository</a></p>
+    </div>
+    <div class="mini-card">
+      <h4>Scientific Computing</h4>
+      <p class="muted">Reproducible analysis pipelines for computational chemistry, molecular modeling, and scientific visualization.</p>
+      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">GitHub profile</a></p>
+    </div>
+  </div>
 </div>
 
 <div class="section-card">
-  <h3>Selected Volunteering</h3>
+  <h3>Volunteering</h3>
   <ul class="volunteering-list">
     <li>
       <strong>She in Nano - Mentor</strong><br>
-      <span class="muted">Nanotechnology Student Society, Tecnologico de Monterrey. 2026</span><br>
-      <span>I mentor a undergrad nanotechnology student in her carrer and academic development and research involvement.</span>
+      <span class="muted">Nanotechnology Student Society, Tecnológico de Monterrey, 2026</span><br>
+      <span>I mentor undergraduate students in academic development and research involvement.</span>
     </li>
     <li>
       <strong>Summer research internship - Instructor</strong><br>
-      <span class="muted">DELFIN summer school</span><br>
-      <span>I participated in a 7-week summer program with 3 undergraduate students and trained them in computational techniques for drug discovery. 2026</span>
+      <span class="muted">DELFIN summer school, 2026</span><br>
+      <span>I trained students in computational techniques for drug discovery and molecular analysis.</span>
     </li>
     <li>
       <strong>FIRST Robotics Competition - Judge and volunteer</strong><br>
-      <span class="muted">FIRST Mexico and FIRST international</span><br>
-      <span>Several times a year I volunteer in robotics competitions for middle and high school students. 2018-2026</span>
+      <span class="muted">FIRST Mexico and FIRST international, 2018-2026</span><br>
+      <span>I supported STEM outreach and volunteer activities for middle and high school students.</span>
     </li>
   </ul>
 </div>
