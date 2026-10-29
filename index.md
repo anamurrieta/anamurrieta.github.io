@@ -192,16 +192,16 @@ description: Doctoral researcher
   <h3>Education</h3>
   <ul class="education-list">
     <li>
-      <strong>B.Sc. in [Degree]</strong><br>
-      <span class="muted">[University], [Year]</span>
+      <strong>B.Sc. in Chemistry and Nanotechnology Engineering</strong><br>
+      <span class="muted">Tecnologico de Monterrey, 2020</span>
     </li>
     <li>
-      <strong>M.Sc. in [Degree]</strong><br>
-      <span class="muted">[University], [Year]</span>
+      <strong>M.Sc. in Nanotechnology</strong><br>
+      <span class="muted">Tecnologico de Monterrey, 2022</span>
     </li>
     <li>
       <strong>Ph.D. in Nanotechnology</strong><br>
-      <span class="muted">Tecnológico de Monterrey, [Year or expected year]</span>
+      <span class="muted">Tecnologico de Monterrey, 2027</span>
     </li>
   </ul>
 </div>
@@ -212,17 +212,17 @@ description: Doctoral researcher
     <li>
       <strong>LigandHub: Web-Based Ligand Preparation and Docking Output Recovery Platform</strong><br>
       <span class="muted">ChemRxiv, 2026</span><br>
-      <a href="https://doi.org/10.0000/placeholder-ligandhub" target="_blank" rel="noopener">DOI: placeholder</a>
+      <a href="https://doi.org/10.26434/chemrxiv.15002691/v1" target="_blank" rel="noopener">DOI: placeholder</a>
     </li>
     <li>
       <strong>Identification and structural characterization of CB1 receptor antagonists: A comprehensive virtual screening and molecular dynamics study of arachidin-2</strong><br>
       <span class="muted">Biophysical Chemistry, 2025</span><br>
-      <a href="https://doi.org/10.0000/placeholder-cb1" target="_blank" rel="noopener">DOI: placeholder</a>
+      <a href="https://doi.org/10.1016/j.bpc.2024.107385" target="_blank" rel="noopener">DOI: placeholder</a>
     </li>
     <li>
       <strong>Mitochondrial Ca overload is a pivotal risk factor for lethal ventricular arrhythmias due to the oxidation of mitochondrial respirasome and energetic failure</strong><br>
       <span class="muted">British Journal of Pharmacology, 2025</span><br>
-      <a href="https://doi.org/10.0000/placeholder-arrhythmia" target="_blank" rel="noopener">DOI: placeholder</a>
+      <a href="https://doi.org/10.1111/bph.70253" target="_blank" rel="noopener">DOI: placeholder</a>
     </li>
   </ul>
 </div>
@@ -262,11 +262,6 @@ description: Doctoral researcher
       <h4>Autodock Viña docking tutorial</h4>
       <p class="muted">Educational tutorial and practical workflow for molecular docking using AutoDock Vina.</p>
       <p><a href="https://github.com/NanoBiostructuresRG/AutodockTutorial-fork" target="_blank" rel="noopener">View repository</a></p>
-    </div>
-    <div class="mini-card">
-      <h4>Scientific Computing</h4>
-      <p class="muted">Reproducible analysis pipelines for computational chemistry, molecular modeling, and scientific visualization.</p>
-      <p><a href="https://github.com/anamurrieta" target="_blank" rel="noopener">GitHub profile</a></p>
     </div>
   </div>
 </div>
