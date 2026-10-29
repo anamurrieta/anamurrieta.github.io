@@ -212,17 +212,17 @@ description: Doctoral researcher
     <li>
       <strong>LigandHub: Web-Based Ligand Preparation and Docking Output Recovery Platform</strong><br>
       <span class="muted">ChemRxiv, 2026</span><br>
-      <a href="https://doi.org/10.26434/chemrxiv.15002691/v1" target="_blank" rel="noopener">DOI: placeholder</a>
+      <a href="https://doi.org/10.26434/chemrxiv.15002691/v1" target="_blank" rel="noopener">DOI link</a>
     </li>
     <li>
       <strong>Identification and structural characterization of CB1 receptor antagonists: A comprehensive virtual screening and molecular dynamics study of arachidin-2</strong><br>
       <span class="muted">Biophysical Chemistry, 2025</span><br>
-      <a href="https://doi.org/10.1016/j.bpc.2024.107385" target="_blank" rel="noopener">DOI: placeholder</a>
+      <a href="https://doi.org/10.1016/j.bpc.2024.107385" target="_blank" rel="noopener">DOI link</a>
     </li>
     <li>
       <strong>Mitochondrial Ca overload is a pivotal risk factor for lethal ventricular arrhythmias due to the oxidation of mitochondrial respirasome and energetic failure</strong><br>
       <span class="muted">British Journal of Pharmacology, 2025</span><br>
-      <a href="https://doi.org/10.1111/bph.70253" target="_blank" rel="noopener">DOI: placeholder</a>
+      <a href="https://doi.org/10.1111/bph.70253" target="_blank" rel="noopener">DOI link</a>
     </li>
   </ul>
 </div>
