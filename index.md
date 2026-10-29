@@ -236,19 +236,19 @@ description: Doctoral researcher
 </div>
 
 <div class="section-card">
-  <h3>Conference Presentations</h3>
+  <h3>Selected Conference Presentations</h3>
   <ul class="conference-list">
     <li>
-      <strong>Computational approaches for nanomaterials and molecular modeling</strong><br>
-      <span class="muted">Scientific meetings and research forums, recent years</span>
+      <strong>MELITE: Multimodel evaluation of classifiers for chemoinformatics</strong><br>
+      <span class="muted">Poster: Congress of the Mexican Chemistry Society. 2026, Oaxaca, México.</span>
     </li>
     <li>
-      <strong>Machine learning and chemoinformatics in drug discovery</strong><br>
-      <span class="muted">Conference presentations and workshops</span>
+      <strong>Computational identification of 2-arylbenzofuran derivatives as CB1 ligands from the chemical space of natural products</strong><br>
+      <span class="muted">Oral talk: Congress of the Mexican Chemistry Society. 2026, Oaxaca, Mexico.</span>
     </li>
     <li>
-      <strong>Structural analysis of advanced materials</strong><br>
-      <span class="muted">Research seminars and technical presentations</span>
+      <strong>Gender bias in artificial intelligence models in drug development</strong><br>
+      <span class="muted">Poster: Internstional Conference of Women Researchers in Iberoamerica. 2025, Tampico, Mexico.</span>
     </li>
   </ul>
 </div>
@@ -257,37 +257,37 @@ description: Doctoral researcher
   <h3>Awards and Distinctions</h3>
   <ul class="awards-list">
     <li>
-      <strong>Research participation and academic recognition</strong><br>
-      <span class="muted">Tecnológico de Monterrey, ongoing</span>
+      <strong>Guanajuato State Youth Award: Academy and Science category - Finalist</strong><br>
+      <span class="muted">Guanajuato State Youth Institute, 2025</span>
     </li>
     <li>
-      <strong>Academic excellence in nanotechnology research</strong><br>
-      <span class="muted">Graduate research training, ongoing</span>
+      <strong>Ludo Frevel Crystallography Scholarship</strong><br>
+      <span class="muted">International Centre for Diffraction Data, 2023</span>
     </li>
     <li>
-      <strong>Scientific communication and collaboration</strong><br>
-      <span class="muted">Research community and training activities</span>
+      <strong>Robert L. Snyder Student Award</strong><br>
+      <span class="muted">Internatilnal Centre for Diffraction Data, 2022</span>
     </li>
   </ul>
 </div>
 
 <div class="section-card">
-  <h3>Volunteering</h3>
+  <h3>Selected Volunteering</h3>
   <ul class="volunteering-list">
     <li>
-      <strong>Mentoring and scientific outreach</strong><br>
-      <span class="muted">Academic community</span><br>
-      <span>Supporting students and promoting scientific engagement in STEM and research-related activities.</span>
+      <strong>She in Nano - Mentor</strong><br>
+      <span class="muted">Nanotechnology Student Society, Tecnologico de Monterrey. 2026</span><br>
+      <span>I mentor a undergrad nanotechnology student in her carrer and academic development and research involvement.</span>
     </li>
     <li>
-      <strong>Research collaboration and peer support</strong><br>
-      <span class="muted">Collaborative teams</span><br>
-      <span>Contributing to interdisciplinary work and helping strengthen collaborative scientific environments.</span>
+      <strong>Summer research internship - Instructor</strong><br>
+      <span class="muted">DELFIN summer school</span><br>
+      <span>I participated in a 7-week summer program with 3 undergraduate students and trained them in computational techniques for drug discovery. 2026</span>
     </li>
     <li>
-      <strong>Education and knowledge sharing</strong><br>
-      <span class="muted">Workshops and seminars</span><br>
-      <span>Improving access to research methods and scientific learning for students and peers.</span>
+      <strong>FIRST Robotics Competition - Judge and volunteer</strong><br>
+      <span class="muted">FIRST Mexico and FIRST international</span><br>
+      <span>Several times a year I volunteer in robotics competitions for middle and high school students. 2018-2026</span>
     </li>
   </ul>
 </div>
