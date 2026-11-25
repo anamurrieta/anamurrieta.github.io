@@ -214,6 +214,11 @@ description: Doctoral researcher
       <span class="muted">ChemRxiv, 2026</span><br>
       <a href="https://doi.org/10.26434/chemrxiv.15002691/v1" target="_blank" rel="noopener">DOI link</a>
     </li>
+     <li>
+      <strong>Desigualdad de Género en los Datos: Un Reto para la Inteligencia Artificial y el Diseño de Fármacos</strong><br>
+      <span class="muted">Espacios Translacionales, 2026</span><br>
+      <a href="https://doi.org/10.13140/RG.2.2.31063.94884" target="_blank" rel="noopener">DOI link</a>
+    </li>
     <li>
       <strong>Identification and structural characterization of CB1 receptor antagonists: A comprehensive virtual screening and molecular dynamics study of arachidin-2</strong><br>
       <span class="muted">Biophysical Chemistry, 2025</span><br>
@@ -224,12 +229,41 @@ description: Doctoral researcher
       <span class="muted">British Journal of Pharmacology, 2025</span><br>
       <a href="https://doi.org/10.1111/bph.70253" target="_blank" rel="noopener">DOI link</a>
     </li>
+    <li>
+      <strong>Microstructural Analysis of Inversion Degree in Sol-Gel Synthesized Spinel MnCo2O4 Particles</strong><br>
+      <span class="muted">Materials Chemistry and Physics, 2024</span><br>
+      <a href="https://doi.org/10.1016/j.matchemphys.2024.130069" target="_blank" rel="noopener">DOI link</a>
+    </li>
+    <li>
+      <strong>Characterization of hydrothermally synthesized ZnFe2O4 spinel ferrite: Insights into microstructure, inversion degree, and crystal evolution</strong><br>
+      <span class="muted">Journal of Physics and Chemistry of Solids, 2023</span><br>
+      <a href="https://doi.org/10.1016/j.jpcs.2023.111659" target="_blank" rel="noopener">DOI link</a>
+    </li>
+    <li>
+      <strong>Frustrated folding of guanine quadruplexes in telomeric DNA</strong><br>
+      <span class="muted">Nucleic Acids Research, 2021</span><br>
+      <a href="https://doi.org/10.1093/nar/gkab140" target="_blank" rel="noopener">DOI link</a>
+    </li>
+    <li>
+      <strong>Microstructure of polycrystalline solids: A brief review from methods in X-ray line profile analysis</strong><br>
+      <span class="muted">Materials Today Proceedings, 2020</span><br>
+      <a href="https://doi.org/10.1016/j.matpr.2020.10.978" target="_blank" rel="noopener">DOI link</a>
+    </li>
+    <li>
+      <strong>Microstructure of polycrystalline gold nanoparticles and thin-films from a comparative X-ray line profile analysis</strong><br>
+      <span class="muted">Materials Chemistry and Physics, 2020</span><br>
+      <a href="https://doi.org/10.1016/j.matchemphys.2020.123976" target="_blank" rel="noopener">DOI link</a>
+    </li>
   </ul>
 </div>
 
 <div class="section-card">
   <h3>Conferences</h3>
   <ul class="conference-list">
+    <li>
+      <strong>Structural basis of 2-arylbenzofuran modulation of the CB1 receptor across functional states</strong><br>
+      <span class="muted">Poster presentation. Congress of the Mexican Biophysical Society, Ciudad de México, México, 2026.</span>
+    </li>
     <li>
       <strong>MELITE: Multimodel evaluation of classifiers for chemoinformatics</strong><br>
       <span class="muted">Poster presentation. Congress of the Mexican Chemistry Society, Oaxaca, México, 2026.</span>
@@ -259,7 +293,7 @@ description: Doctoral researcher
       <p><a href="https://github.com/NanoBiostructuresRG/melite" target="_blank" rel="noopener">View repository</a></p>
     </div>
     <div class="mini-card">
-      <h4>Autodock Viña docking tutorial</h4>
+      <h4>Autodock Vina docking tutorial</h4>
       <p class="muted">Educational tutorial and practical workflow for molecular docking using AutoDock Vina.</p>
       <p><a href="https://github.com/NanoBiostructuresRG/AutodockTutorial-fork" target="_blank" rel="noopener">View repository</a></p>
     </div>
